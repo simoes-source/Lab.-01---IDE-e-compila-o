@@ -3,8 +3,8 @@
 int main(){
 
     printf("Mackenzie - FCI\n");
-    printf("Algoritmos e ");
-    printf("Prog. II\n");
+    printf("Ciencia da Computação\n");
+    printf("Algoritmos e Programção II\n");
 
     return 0;
 }
